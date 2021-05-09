@@ -1,0 +1,217 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "bk_title": "Database",
+      "bk_author": "Sachin Subedi",
+      "bk_edition": "1st",
+      "bk_publisher": "Info Publisher",
+      "bk_publication_date": "2021-03-23",
+      "bk_copies": 66,
+      "bk_category": "Software",
+      "bk_rack_no": "1r-3c"
+    },
+    {
+      "id": "2",
+      "bk_title": "Networking",
+      "bk_author": "Jagdish Sharma",
+      "bk_edition": "5th",
+      "bk_publisher": "Tech Net Publisher",
+      "bk_publication_date": "2021-03-17",
+      "bk_copies": 54,
+      "bk_category": "Network",
+      "bk_rack_no": "2r-5c"
+    },
+    {
+      "id": "3",
+      "bk_title": "Designing",
+      "bk_author": "Prabesh Rijal",
+      "bk_edition": "1st",
+      "bk_publisher": "Bringup Publisher",
+      "bk_publication_date": "2021-03-24",
+      "bk_copies": 44,
+      "bk_category": "Designing",
+      "bk_rack_no": "1r-3c"
+    },
+    {
+      "id": 4,
+      "bk_title": "Programming",
+      "bk_author": "Shiva Subedi",
+      "bk_edition": "9th",
+      "bk_publisher": "Dev Publisher",
+      "bk_publication_date": "2021-03-30",
+      "bk_copies": 60,
+      "bk_category": "Software",
+      "bk_rack_no": "5r-3c"
+    },
+    {
+      "id": 5,
+      "bk_title": "Biology",
+      "bk_author": "Rabin Subedi",
+      "bk_edition": "1st",
+      "bk_publisher": "Info Publisher",
+      "bk_publication_date": "2021-03-16",
+      "bk_copies": 20,
+      "bk_category": "Science",
+      "bk_rack_no": "1r-3c"
+    },
+    {
+      "id": 6,
+      "bk_title": "Physics",
+      "bk_author": "Vivek Kumar Gurung",
+      "bk_edition": "3rd",
+      "bk_publisher": "Arduino Publisher",
+      "bk_publication_date": "2020/02/03",
+      "bk_copies": 98,
+      "bk_category": "Science",
+      "bk_rack_no": "1r-3c"
+    },
+    {
+      "id": 7,
+      "bk_title": "Chemistry",
+      "bk_author": "Praful Tamrakar",
+      "bk_edition": "5th",
+      "bk_publisher": "Pro Publisher",
+      "bk_publication_date": "2021-03-23",
+      "bk_copies": 12,
+      "bk_category": "Science",
+      "bk_rack_no": "6r-1c"
+    },
+    {
+      "id": 8,
+      "bk_title": "Banking",
+      "bk_author": "Anil Ambani",
+      "bk_edition": "5th",
+      "bk_publisher": "Fixed Publisher",
+      "bk_publication_date": "2021-03-24",
+      "bk_copies": 55,
+      "bk_category": "BBA",
+      "bk_rack_no": "6r-1c"
+    }
+  ],
+  "users": [
+    {
+      "fname": "Prabesh",
+      "lname": "Rijal",
+      "dob": "2021-03-16",
+      "phone": "9806760552",
+      "email": "prabesh@gmail.com",
+      "password": "prabesh@@!!**",
+      "id": 1
+    },
+    {
+      "fname": "Rabin",
+      "lname": "Subedi",
+      "dob": "2021-03-10",
+      "phone": "985755652",
+      "email": "rabin@gmail.com",
+      "password": "!!~~@rabin**",
+      "id": 2
+    },
+    {
+      "fname": "Vivek Kumar",
+      "lname": "Gurung",
+      "dob": "2021-03-24",
+      "phone": "985755462",
+      "email": "zero@gmail.com",
+      "password": "zero~~@@**",
+      "id": 3
+    },
+    {
+      "fname": "Praful",
+      "lname": "Tamrakar",
+      "dob": "2021-03-30",
+      "phone": "987625458",
+      "email": "praful@gmail.com",
+      "password": "praful~!!!##%",
+      "id": 4
+    },
+    {
+      "fname": "Subash",
+      "lname": "Adhikari",
+      "dob": "2020-05-20",
+      "phone": "98575565",
+      "email": "subash@gmail.com",
+      "password": "subash~!!#",
+      "id": 5
+    },
+    {
+      "fname": "Sandip",
+      "lname": "Adhikari",
+      "dob": "2021-04-30",
+      "phone": "985562155",
+      "email": "sandip@gmail.com",
+      "password": "sandip~~@@$$",
+      "id": 6
+    },
+    {
+      "fname": "Binod",
+      "lname": "Timilsina",
+      "dob": "2021-04-17",
+      "phone": "9875562545",
+      "email": "binod@gmail.com",
+      "password": "binod@@78545~~",
+      "id": 7
+    }
+  ],
+  "members": [
+    {
+      "id": 1,
+      "mem_fname": "Prabesh",
+      "mem_lname": "Rijal",
+      "mem_email": "prabesh@gmail.com",
+      "mem_password": "prabesh~~@@",
+      "mem_year": "2019",
+      "mem_faculty": "BSCIT",
+      "mem_phone": "982584845",
+      "mem_address": "Nayabazar",
+      "mem_dob": "2021-03-22",
+      "mem_age": "22",
+      "mem_gender": "male"
+    },
+    {
+      "id": 1,
+      "mem_fname": "Prayush",
+      "mem_lname": "Rijal",
+      "mem_email": "prayush@gmail.com",
+      "mem_password": "prabesh~~##",
+      "mem_year": "2020",
+      "mem_faculty": "BBA",
+      "mem_phone": "982587845",
+      "mem_address": "Newroad",
+      "mem_dob": "02/03/2000",
+      "mem_age": "20",
+      "mem_gender": "male"
+    },
+    {
+      "mem_fname": "Vivek Kumar",
+      "mem_lname": "Gurung",
+      "mem_email": "zero@gmail.com",
+      "mem_password": "zero~~@@",
+      "mem_year": "2020",
+      "mem_faculty": "BSCIT",
+      "mem_phone": "985755652",
+      "mem_addrss": "",
+      "mem_dob": "2021-03-31",
+      "mem_age": "23",
+      "mem_gender": "Male",
+      "mem_address": "Tal Chowk",
+      "id": 2
+    },
+    {
+      "mem_fname": "Rabin",
+      "mem_lname": "Subedi",
+      "mem_email": "rabin@gmail.com",
+      "mem_password": "rabin@@!!",
+      "mem_year": "3rd",
+      "mem_faculty": "BSCIT",
+      "mem_phone": "98756224",
+      "mem_addrss": "",
+      "mem_dob": "2021-03-22",
+      "mem_age": "20",
+      "mem_gender": "Male",
+      "mem_address": "Pokhara",
+      "id": 3
+    }
+  ]
+}
